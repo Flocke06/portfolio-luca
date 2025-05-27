@@ -12,7 +12,7 @@ export default function About() {
                         src={"/images/man.jpg"}
                         width={600}
                         height={700}
-                        className="rounded  2xl:ml-[3rem] xl:mt-[4rem] 2xl:mt-[10rem]"
+                        className="rounded  2xl:ml-[3rem] xl:mt-[4rem] 2xl:mt-[10rem] h-50 w-50 "
                     />
                 </div>
 
