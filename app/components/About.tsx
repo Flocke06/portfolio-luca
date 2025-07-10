@@ -4,7 +4,7 @@ export default function About() {
 
     return (
 
-        <div className="h-[130rem] md:h-[120rem] lg:h-[120rem] xl:h-[60rem] 2xl:h-[80rem] bg-black text-white p-0 m-0">
+        <div className="h-[130rem] md:h-[120rem] lg:h-[120rem] xl:h-[60rem] 2xl:h-[80rem] s text-white p-0 m-0">
             <div className="grid grid-cols-12 ">
                 <div className="flex flex-col justify-center items-center col-span-12 mx-9 mt-[10rem] 2xl:col-span-5 xl:col-span-4">
                     <Image
