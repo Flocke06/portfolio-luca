@@ -26,7 +26,7 @@
 
                 <div className="h-0 w-2/5 border-t border-white mx-auto "></div>
 
-                <div className="bg-neutral w-[60rem] mx-auto h-screen flex justify-center items-center text-xl">
+                <div className="bg-neutral w-[60rem] mx-auto h-screen flex justify-center items-center text-white text-xl">
                     <div>
                         Impressum
                     </div>
